@@ -25,7 +25,7 @@ Estudiar el método de PageRank y el uso de Eigenvectores y Eigenvalores para su
 
 * [Avance 1](https://github.com/lecepe00/PageRank-eigenvectores-eigenvalores/blob/main/Avances/Avance1.md)
 * [Avance 2](https://github.com/lecepe00/PageRank-eigenvectores-eigenvalores/blob/main/Avances/Avance2.md)
-* Avance 3
+* [Avance 3](https://github.com/lecepe00/PageRank-eigenvectores-eigenvalores/blob/main/Avances/Avance3.md)
 
 
 ## Referencias:

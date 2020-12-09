@@ -34,6 +34,7 @@ Estudiar el método de PageRank y el uso de Eigenvectores y Eigenvalores para su
 * Bryan, Kurt & Leise, Tanya.  [The linear algebra behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * Equipo 4. (2020).  [Cálculo de eigenvalores-eigenvectores](https://github.com/optimizacion-2020-2-gh-classroom/practica-1-segunda-parte-graph-caroacostatovany)
 * Interactive Mathematics.  [Applications of Eigenvalues and Eigenvectors](https://www.intmath.com/matrices-determinants/8-applications-eigenvalues-eigenvectors.php)
+* Ken State University.  [Eigenvalue Computations](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/lecture21/evmeth.pdf)
 * NetworkX.  [Google Matrix](https://networkx.org/documentation/stable//reference/algorithms/generated/networkx.algorithms.link_analysis.pagerank_alg.google_matrix.html#networkx.algorithms.link_analysis.pagerank_alg.google_matrix)
 * NetworkX.  [PageRank](https://networkx.org/documentation/stable//reference/algorithms/generated/networkx.algorithms.link_analysis.pagerank_alg.pagerank.html)
 * PageRank Algorithm, https://en.wikipedia.org/wiki/PageRank
